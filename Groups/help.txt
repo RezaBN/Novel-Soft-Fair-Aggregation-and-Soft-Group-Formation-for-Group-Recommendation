@@ -1,0 +1,1 @@
+Here will be included the ***groups*** formed by the ***Soft Group Formation*** method when running the code.
